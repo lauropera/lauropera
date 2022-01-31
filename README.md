@@ -4,6 +4,6 @@
 
 👨🏻‍🏫 Futuro professor.
 </br>
-☕ Estudando JavaScript, HTML e CSS
+☕ Estudando JavaScript, HTML e CSS.
 </br>
-### ❤️ Tecnologia e Biologia Marinha
+### ❤️ Tecnologia e Biologia Marinha.
