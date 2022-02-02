@@ -1,6 +1,6 @@
 
 # Olá! Eu sou o Lauro 🐬
-
+# Hey! I'm Lauro 🐬
 
 👨🏻‍🏫 Futuro professor.
 </br>
