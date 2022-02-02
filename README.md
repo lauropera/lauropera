@@ -1,10 +1,9 @@
 
-# Olá! Eu sou o Lauro 🐬 </br>Hey! I'm Lauro 🐬
+# Hey! I'm Lauro, an brazilian 🐬
 
-👨🏻‍🏫 Futuro professor.</br>
+👨🏻‍🏫 Learning to be a teacher someday.</br>
 </br>
-☕ Estudando JavaScript, HTML e CSS.</br>
 ☕ Studying JavaScript, HTML and CSS
 </br>
 #
-## ❤️ Tecnologia e Biologia Marinha 🐠
+## <p align=center> ❤️ Technology and Marine biology 🐠
