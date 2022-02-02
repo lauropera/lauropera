@@ -1,7 +1,7 @@
 
 # Hey! I'm Lauro, an brazilian 🐬
 
-👨🏻‍🏫 Learning to be a teacher someday.</br>
+👨🏻‍🏫 Learning and helping people to be a teacher someday.</br>
 </br>
 ☕ Studying JavaScript, HTML and CSS
 </br>
