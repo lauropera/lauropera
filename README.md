@@ -3,6 +3,7 @@
 
 * 👨🏻‍🏫 Estudando e ajudando pessoas para um dia ser professor.</br>
 * ☕ Aprendendo JavaScript, HTML and CSS.
+#
 </br>
 <div align="center">
   <a href="https://github.com/lauropera">
