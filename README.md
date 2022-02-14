@@ -2,7 +2,7 @@
 # Olá! Eu sou o Lauro 🐬
 
 * 👨🏻‍🏫 Estudando e ajudando pessoas para um dia ser professor.</br>
-* ☕ Aprendendo JavaScript, HTML and CSS.
+* ☕ Aprendendo tecnologias Front-End.
 #
 </br>
 <div align="center">
