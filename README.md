@@ -1,13 +1,43 @@
-
-# Olá! Eu sou o Lauro 🐬
-
-* 👨🏻‍🏫 Estudando e ajudando pessoas para um dia ser professor.</br>
-* ☕ Aprendendo tecnologias Front-End.
-#
-</br>
-<div align="center">
-  <a href="https://github.com/lauropera">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lauropera&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<div>
+  <img align="left" alt="GIF" height="130px" src="https://i.imgur.com/j0saWXh.gif"/>
+  <h1 align="left">Olá, eu sou o Lauro! 🐬</h1>
+  <p align="left">☕ Estou estudando Desenvolvimento-Web para um dia me tornar professor!
+  <br>
+  <p align="left">🪐 Amo biologia marinha e jogos.</h2>
 </div>
 
-#
+---
+
+<div align="center">
+     <a href="">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=lauropera&theme=github_dark&show_icons=true&line_height=25" />
+    </a>
+    <a href="">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauropera&theme=github_dark&line_height=40&hide=css"/>
+    </a>
+  </div>
+  
+
+
+<div align="center" valign="top">
+  <h3 allign="center">Oque ando aprendendo:</h2>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<!--   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> -->
+</div>
+
+
+
+<div align="center">
+  <h3 allign="center">Contatos</h2>
+  <a href="https://www.linkedin.com/in/lauro-pereira-sr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:lauropereirasr01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.github.com/lauropera/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div>
+
+---
+
+<div align="center">
+  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+</div>
