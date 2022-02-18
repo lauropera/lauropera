@@ -10,7 +10,7 @@
 
 <div align="center">
      <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=lauropera&theme=github_dark&show_icons=true&line_height=25" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=lauropera&theme=github_dark&show_icons=true&line_height=20" />
     </a>
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauropera&theme=github_dark&line_height=40&hide=css"/>
