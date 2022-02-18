@@ -1,7 +1,7 @@
 <div>
   <img align="left" alt="GIF" height="130px" src="https://i.imgur.com/j0saWXh.gif"/>
   <h1 align="left">Olá, eu sou o Lauro! 🐬</h1>
-  <p align="left">☕ Estou estudando Desenvolvimento-Web para um dia me tornar professor!
+  <p align="left">☕ Estou estudando Desenvolvimento-Web!
   <br>
   <p align="left">🪐 Amo biologia marinha e jogos.</h2>
 </div>
