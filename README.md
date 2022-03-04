@@ -1,37 +1,40 @@
-<div>
-  <img align="left" alt="GIF" height="130px" src="https://i.imgur.com/j0saWXh.gif"/>
-  <h1 align="left">Olá, eu sou o Lauro! 🐬</h1>
-  <p align="left">☕ Estou estudando Desenvolvimento-Web na <a href="https://www.betrybe.com/">Trybe</a>!
-  <br>
-  <p align="left">🪐 Amo biologia marinha e jogos.</h2>
-</div>
+<h4 align="center">
+ 
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://giffiles.alphacoders.com/146/14616.gif)
 
-<h1></h1>
+<hr>
 
-<div align="center">
-     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=lauropera&theme=github_dark&show_icons=true&line_height=20" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauropera&theme=github_dark&line_height=40&hide=css"/>
-    </a>
-  </div>
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/lauropera)](https://www.linkedin.com/in/lauro-pereira-sr/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lauropera01@gmail.com)
+</h4>
+
+<h2 align="center">  <br>
+
+Olá, eu sou o Lauro! 🐬
+<br>
+
+</h2>
+
+```
+  🐧 Estou estudando Desenvolvimento-Web na Trybe!
   
+  🪐 Amo biologia marinha e jogos.
+```
+## Oque estou estudando
 
+<h4 align="center">
 
-<div align="center" valign="top">
-</br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<!--   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> -->
-</div>
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](github.com/lauropera)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](github.com/lauropera)
+[![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](github.com/lauropera)
 
+</h4>
 
+## Minhas estatísticas
 
-<div align="center">
-  <h3 allign="center">Contatos</h2>
-  <a href="https://www.linkedin.com/in/lauro-pereira-sr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:lauropereirasr01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-<h1></h1>
+<h4 align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauropera&show_icons=true&theme=github_dark)
+[![lauropera](https://github-readme-stats.vercel.app/api/top-langs/?username=lauropera&hide=html&layout=compact=true&theme=github_dark)](https://github.com/lauropera/)
+
+</h4>
