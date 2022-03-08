@@ -28,7 +28,7 @@ Tecnologias
 
 <h2 align="center">
 
-Minhas estatísticas
+Estatísticas do Github
 
 </h2>
 
