@@ -1,14 +1,14 @@
 <h2 align="center">  <br>
 
-Olá, eu sou o Lauro! 🐬
+Olá, eu sou o Lauro! 
 <br>
 
 </h2>
 
 ```
-  🐧 Estou estudando Desenvolvimento-Web na Trybe!
+  🪐 Estou estudando Desenvolvimento-Web na Trybe!
   
-  🪐 Amo biologia marinha e jogos.
+  🐬 Amo biologia marinha e jogos.
 ```
 
 <h2 align="center">
