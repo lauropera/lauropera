@@ -1,9 +1,3 @@
-<hr>
-
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/lauropera)](https://www.linkedin.com/in/lauro-pereira-sr/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lauropera01@gmail.com)
-</h4>
-
 <h2 align="center">  <br>
 
 Olá, eu sou o Lauro! 🐬
@@ -16,7 +10,12 @@ Olá, eu sou o Lauro! 🐬
   
   🪐 Amo biologia marinha e jogos.
 ```
-## Oque estou estudando
+
+<h2 align="center">
+
+Tecnologias
+
+</h2>
 
 <h4 align="center">
 
@@ -26,11 +25,28 @@ Olá, eu sou o Lauro! 🐬
 
 </h4>
 
-## Minhas estatísticas
+
+<h2 align="center">
+
+Minhas estatísticas
+
+</h2>
 
 <h4 align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauropera&show_icons=true&theme=github_dark)
 [![lauropera](https://github-readme-stats.vercel.app/api/top-langs/?username=lauropera&hide=html&layout=compact=true&theme=github_dark)](https://github.com/lauropera/)
 
+</h4>
+
+<h2 align="center">
+
+Contatos
+
+</h2>
+
+<h4 align="center">
+ 
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/lauropera)](https://www.linkedin.com/in/lauro-pereira-sr/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lauropera01@gmail.com)
 </h4>
