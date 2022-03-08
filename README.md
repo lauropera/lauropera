@@ -6,7 +6,7 @@ Olá, eu sou o Lauro!
 </h2>
 
 ```
-  🪐 Estou estudando Desenvolvimento-Web na Trybe!
+  🪐 Estudando Desenvolvimento-Web na Trybe!
   
   🐬 Amo biologia marinha e jogos.
 ```
