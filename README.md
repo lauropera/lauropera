@@ -13,7 +13,7 @@ Olá, eu sou o Lauro!
 
 <h4 align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauropera&show_icons=true&theme=github_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauropera&show_icons=true&theme=codeSTACKr)
 
 </h4> </br>
 
