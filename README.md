@@ -1,4 +1,4 @@
-<h2 align="center">  <br>
+<h2>
 
 Olá, eu sou o Lauro! 
 <br>
@@ -11,18 +11,14 @@ Olá, eu sou o Lauro!
   🐬 Amo biologia marinha e jogos.
 ```
 
-</h2>
-
 <h4 align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauropera&show_icons=true&theme=github_dark)
 
-</h4>
+</h4> </br>
 
-<h4 align="center">
-
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](github.com/lauropera)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](github.com/lauropera)
-[![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](github.com/lauropera)
-
-</h4>
+<div align="center" style="display: inline_block">
+  <img align="center" alt="JavaScript" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="HTML" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+	<img align="center" alt="CSS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+</div>
