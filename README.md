@@ -5,11 +5,9 @@ Olá, eu sou o Lauro!
 
 </h2>
 
-```
 🪐 Atualmente estou estudando Desenvolvimento-Web na Trybe!
   
-🐬 Amo biologia marinha e jogos.
-``` 
+🐬 Amo biologia marinha e jogos. 
  
 </br>
  
