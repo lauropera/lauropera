@@ -1,13 +1,14 @@
 <h2>
 
-Olá, eu sou o Lauro! 
+Hey, im Lauro 
 <br>
 
 </h2>
 
-🪐 Atualmente estou estudando Desenvolvimento-Web na Trybe!
+🪐 Currently studying web development at Trybe;
   
-🐬 Amo biologia marinha e jogos. 
+🐬 I like to see some stuffs about marine biology and play some games
+ 
  
 </br>
  
