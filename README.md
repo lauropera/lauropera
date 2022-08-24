@@ -1,7 +1,7 @@
 <h1>Olá</h1>
 
 <h3>🪐 Estou estudando desenvolvimento web na Trybe</h3>
-<h3>🐬 Gosto de biologia marinha e jogar</h3>
+<h3>🐬 Gosto de biologia marinha e jogos</h3>
 
 #
 
