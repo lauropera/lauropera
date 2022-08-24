@@ -5,7 +5,7 @@ Olá
 
 </h2>
 
-🪐 Estou estudando desenvolvimento web na Trybe;
+🪐 Estou estudando desenvolvimento web na Trybe
   
 🐬 Gosto de biologia marinha e jogar
  
