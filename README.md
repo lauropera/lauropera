@@ -90,13 +90,10 @@
 </div>
 <div>
   <div>
-    <img src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" width="20px"/> Versionamento de código com Git
-  </div>
-  <div>
-    <img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" width="20px"/> Gerenciamento de estado com Redux
-  </div>
-  <div>
     <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="20px"/> Context API e Hooks
+  </div>
+  <div>
+    <p>📝Métodologias agéis</p>
   </div>
 </div>
 
