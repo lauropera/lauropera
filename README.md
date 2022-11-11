@@ -60,12 +60,12 @@
     alt="Node.js"
   >
   <img
-    src="https://img.shields.io/badge/Mocha.js-8D6748?style=for-the-badge&logo=Mocha&logoColor=white"
-    alt="Mocha.js"
+    src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white"
+    alt="Mocha"
   />
   <img
-    src="https://img.shields.io/badge/chai.js-A30701?style=for-the-badge&logo=chai&logoColor=white"
-    alt="Chai.js"
+    src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white"
+    alt="Chai"
   />
   <img
     src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
