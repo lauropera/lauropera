@@ -56,7 +56,7 @@
     alt="MySQL"
   >
   <img
-    src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
+    src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
     alt="Node.js"
   >
   <img
@@ -81,7 +81,7 @@
   />
     <img
     src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"
-    alt="Swagger UI"
+    alt="Swagger"
   />
 </div>
 <div>
