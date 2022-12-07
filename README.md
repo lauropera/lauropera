@@ -99,11 +99,15 @@
   <img
     src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
     alt="TypeScript"
-  >
+  />
   <img
     src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
     alt="Java"
-  >
+  />
+  <img
+    src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
+    alt="MongoDB"
+  />
 </div>
 
 <br />
