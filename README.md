@@ -60,6 +60,10 @@
     alt="Node.js"
   >
   <img
+    src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
+    alt="TypeScript"
+  />
+  <img
     src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white"
     alt="Mocha"
   />
@@ -71,7 +75,7 @@
     src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
     alt="Express.js"
   />
-    <img
+  <img
     src="https://img.shields.io/badge/Sequelize-1572b6?style=for-the-badge&logo=sequelize&logoColor=white"
     alt="Sequelize"
   />
@@ -79,13 +83,9 @@
     src="https://img.shields.io/badge/Json%20Web%20Tokens-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"
     alt="Json Web Tokens"
   />
-    <img
+  <img
     src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"
     alt="Swagger"
-  />
-  <img
-    src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
-    alt="TypeScript"
   />
 </div>
 <div>
