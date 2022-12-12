@@ -83,6 +83,10 @@
     src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"
     alt="Swagger"
   />
+  <img
+    src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
+    alt="TypeScript"
+  />
 </div>
 <div>
   <div>
@@ -96,10 +100,6 @@
 ### Estudando
 
 <div align="left">
-  <img
-    src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
-    alt="TypeScript"
-  />
   <img
     src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
     alt="Java"
