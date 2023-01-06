@@ -68,13 +68,17 @@
   <img
     src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
     alt="MySQL"
-  >
+  />
+  <img 
+    src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
+    alt="PostgreSQL"
+  />
   <img
     src="https://img.shields.io/badge/Sequelize-1572b6?style=for-the-badge&logo=sequelize&logoColor=white"
     alt="Sequelize"
   />
   <img
-    src="https://img.shields.io/badge/Json%20Web%20Tokens-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"
+    src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"
     alt="Json Web Tokens"
   />
   <img
