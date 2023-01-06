@@ -2,7 +2,7 @@
 
 ### 🪐 Estou estudando desenvolvimento web na Trybe
 
-### 🐬 Gosto de biologia marinha e jogos
+### 🐬 Gosto de biologia marinha e música
 
 ### 🐙 <a href="https://lauropera.github.io/">Meu Portfólio</a>
 
