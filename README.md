@@ -85,6 +85,10 @@
     src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"
     alt="Swagger"
   />
+  <img
+  src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"
+  alt="Socket.io"
+  />
 </div>
 
 #### Testes
