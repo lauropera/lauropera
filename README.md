@@ -89,6 +89,10 @@
   src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"
   alt="Socket.io"
   />
+  <img
+  src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"
+  alt="Prisma"
+  />
 </div>
 
 #### Testes
