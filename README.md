@@ -1,6 +1,6 @@
 # Olá
 
-### 🪐 Estou estudando desenvolvimento web na Trybe
+### 🪐 Estudando desenvolvimento web na Trybe
 
 ### 🐬 Gosto de biologia marinha e música
 
