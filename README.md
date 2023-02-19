@@ -93,6 +93,10 @@
   src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"
   alt="Prisma"
   />
+  <img
+    src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
+    alt="MongoDB"
+  />
 </div>
 
 #### Testes
@@ -116,12 +120,16 @@
 
 <div align="left">
   <img
-    src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
-    alt="Java"
+    src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"
+    alt="Unity"
   />
   <img
-    src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
-    alt="MongoDB"
+    src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"
+    alt="C-Sharp"
+  />
+  <img
+    src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
+    alt="Java"
   />
 </div>
 
