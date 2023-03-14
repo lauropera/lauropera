@@ -1,7 +1,5 @@
 # Olá
 
-### 🪐 Estudando desenvolvimento web na Trybe
-
 ### 🐬 Gosto de biologia marinha e piano
 
 ### 🐙 <a href="https://lauropera.github.io/">Meu Portfólio</a>
