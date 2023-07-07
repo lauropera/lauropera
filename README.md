@@ -114,7 +114,7 @@
   />
 </div>
 
-### Estudando
+<!-- ### Estudando
 
 <div align="left">
   <img
@@ -123,7 +123,7 @@
   />
 </div>
 
-<br />
+<br /> -->
 
 ##
 
